@@ -1,4 +1,4 @@
-# yt-dlp-gui
+# yt-downloader
 
 A simple GUI-based application to download YouTube videos using yt-dlp. The application allows you to select the video quality, format, and download location, while displaying the download progress.
 
@@ -20,8 +20,8 @@ A simple GUI-based application to download YouTube videos using yt-dlp. The appl
 
 1. Clone this repository:
    ```
-   git clone https://github.com/thesophile/youtube-downloader.git
-   cd youtube-downloader
+   git clone https://github.com/thesophile/yt-downloader.git
+   cd yt-downloader
    ```
 
 2. Create and activate a virtual environment:
@@ -44,7 +44,7 @@ A simple GUI-based application to download YouTube videos using yt-dlp. The appl
 
 1. Run the application:
    ```
-   python3 youtube_downloader_gui.py
+   python3 download.py
    ```
 
 2. Enter the YouTube URL of the video you want to download.
